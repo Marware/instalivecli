@@ -53,7 +53,7 @@ class InstaLiveCLI:
     two_factor_identifier = None
     last_csrf_token = None
     DEVICE_SETS = {
-        "app_version": "136.0.0.34.124",
+        "app_version": "279.0.0.23.112",
         "android_version": "28",
         "android_release": "9.0",
         "dpi": "640dpi",
